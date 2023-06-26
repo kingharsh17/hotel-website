@@ -416,7 +416,7 @@ section{
 /* review */
 
 .review{
-    background-image: url("images/reviewima1.jpg");
+    background-image: url("reviewima1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
